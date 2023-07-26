@@ -1,0 +1,50 @@
+Write a code to create a new tf.compat.v1.data.Options object.
+Write a code to add the tf.compat.v1.data.OPTIMIZE_ON_PREPROCESS option to an existing tf.compat.v1.data.Options object.
+Write a code to retrieve the options added to a tf.compat.v1.data.Options object.
+Write a code to clear all the options from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.experimental.CRC32C compression option to an existing tf.compat.v1.data.Options object.
+Write a code to enable the tf.compat.v1.data.experimental.UNCHANGED_SHARD option in a tf.compat.v1.data.Options object.
+Write a code to create a dataset using a tf.compat.v1.data.Options object.
+Write a code to disable the tf.compat.v1.data.AUTOTUNE option in a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.EXPERIMENTAL_RERANK option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.GENERATOR_INTER_OP_PARALLELISM option from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.experimental.PREFETCH_TO_DEVICE option in a tf.compat.v1.data.Options object.
+Write a code to enable the tf.compat.v1.data.experimental.SHOUFFLE_AND_REPEAT option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.AUTOTUNE option from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.OPTIMIZE_ON_CACHE option in a tf.compat.v1.data.Options object.
+Write a code to disable the tf.compat.v1.data.UNUSED_ARGUMENTS_WARNING option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.OPTIMIZE_ON_PREPROCESS option from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.experimental.SERIALIZE option in a tf.compat.v1.data.Options object.
+Write a code to enable the tf.compat.v1.data.experimental.UNCHANGED_WINDOW option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.experimental.CRC32C option from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.experimental.OPTIMIZE_MAP_PARALLELIZATION option in a tf.compat.v1.data.Options object.
+Write a code to disable the tf.compat.v1.data.experimental.IGNORE_ORDER option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.experimental.UNCHANGED_SHARD option from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.experimental.UNPARALLEL_BATCH option in a tf.compat.v1.data.Options object.
+Write a code to enable the tf.compat.v1.data.experimental.LOOP_OPTIMIZER option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.experimental.PREFETCH_TO_DEVICE option from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.experimental.UNCHANGED_SLICE option in a tf.compat.v1.data.Options object.
+Write a code to disable the tf.compat.v1.data.experimental.RANGE_RETURNS_INT64 option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.experimental.SHOUFFLE_AND_REPEAT option from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.experimental.INTRA_OP_PARALLELISM option in a tf.compat.v1.data.Options object.
+Write a code to enable the tf.compat.v1.data.experimental.MULTI_THREADING option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.OPTIMIZE_ON_CACHE option from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.experimental.OPTIMIZE_CARDINALITY option in a tf.compat.v1.data.Options object.
+Write a code to disable the tf.compat.v1.data.experimental.RERUN_EXPERIMENTS option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.experimental.SERIALIZE option from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.experimental.UNCHANGED_COMPRESS option in a tf.compat.v1.data.Options object.
+Write a code to enable the tf.compat.v1.data.experimental.USE_DETERMINISTIC option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.experimental.OPTIMIZE_MAP_PARALLELIZATION option from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.experimental.OPTIMIZE_INTRA_OP_PARALLELISM option in a tf.compat.v1.data.Options object.
+Write a code to disable the tf.compat.v1.data.experimental.MAX_INTRA_OP_PARALLELISM option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.experimental.UNCHANGED_WINDOW option from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.experimental.OPTIMIZE_SHARDING option in a tf.compat.v1.data.Options object.
+Write a code to enable the tf.compat.v1.data.experimental.SKIP_FAILURES option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.experimental.UNPARALLEL_BATCH option from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.experimental.UNCHANGED_FILTER option in a tf.compat.v1.data.Options object.
+Write a code to disable the tf.compat.v1.data.experimental.EXPERIMENTAL_RERANK option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.experimental.UNCHANGED_SLICE option from a tf.compat.v1.dataOptions object.
+Write a code to set the tf.compat.v1.data.experimental.UNCHANGED_BATCH option in a tf.compat.v1.data.Options object.
+Write a code to enable the tf.compat.v1.data.experimental.MAP_VECTORization option in a tf.compat.v1.data.Options object.
+Write a code to retrieve the tf.compat.v1.data.experimental.INTRA_OP_PARALLELISM option from a tf.compat.v1.data.Options object.
+Write a code to set the tf.compat.v1.data.experimental.UNCHANGED_MAP option in a tf.compat.v1.data.Options object.

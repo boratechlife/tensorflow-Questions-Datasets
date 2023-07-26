@@ -1,0 +1,50 @@
+Write a code to create a LinearSDCA estimator in TensorFlow.
+Write a code to train a LinearSDCA estimator on a given dataset.
+Write a code to evaluate the performance of a trained LinearSDCA estimator on a test dataset.
+Write a code to set the regularization parameter for a LinearSDCA estimator.
+Write a code to set the number of passes over the training dataset for a LinearSDCA estimator.
+Write a code to set the batch size for a LinearSDCA estimator.
+Write a code to set the loss function for a LinearSDCA estimator.
+Write a code to set the learning rate for a LinearSDCA estimator.
+Write a code to set the feature columns for a LinearSDCA estimator.
+Write a code to set the model_dir parameter for a LinearSDCA estimator.
+Write a code to set the optimizer for a LinearSDCA estimator.
+Write a code to set the weight_column parameter for a LinearSDCA estimator.
+Write a code to set the l1_regularization parameter for a LinearSDCA estimator.
+Write a code to set the l2_regularization parameter for a LinearSDCA estimator.
+Write a code to set the warm_start_from parameter for a LinearSDCA estimator.
+Write a code to set the save_checkpoints_steps parameter for a LinearSDCA estimator.
+Write a code to set the save_summary_steps parameter for a LinearSDCA estimator.
+Write a code to set the save_checkpoints_secs parameter for a LinearSDCA estimator.
+Write a code to set the keep_checkpoint_max parameter for a LinearSDCA estimator.
+Write a code to set the log_step_count_steps parameter for a LinearSDCA estimator.
+Write a code to set the max_steps parameter for a LinearSDCA estimator.
+Write a code to set the shuffle parameter for a LinearSDCA estimator.
+Write a code to set the steps parameter for a LinearSDCA estimator.
+Write a code to set the use_tpu parameter for a LinearSDCA estimator.
+Write a code to set the num_shards parameter for a LinearSDCA estimator.
+Write a code to set the shard_index parameter for a LinearSDCA estimator.
+Write a code to set the config parameter for a LinearSDCA estimator.
+Write a code to set the warm_start_dir parameter for a LinearSDCA estimator.
+Write a code to set the warm_start_params parameter for a LinearSDCA estimator.
+Write a code to set the checkpoint_path parameter for a LinearSDCA estimator.
+Write a code to set the checkpoint_exclude_scopes parameter for a LinearSDCA estimator.
+Write a code to set the init_weights_from_checkpoint parameter for a LinearSDCA estimator.
+Write a code to set the tpu_name parameter for a LinearSDCA estimator.
+Write a code to set the run_config parameter for a LinearSDCA estimator.
+Write a code to set the warm_start_settings parameter for a LinearSDCA estimator.
+Write a code to set the model_fn parameter for a LinearSDCA estimator.
+Write a code to set the warm_start_moving_average_decay parameter for a LinearSDCA estimator.
+Write a code to set the log_step_count_secs parameter for a LinearSDCA estimator.
+Write a code to set the training_chief_hooks parameter for a LinearSDCA estimator.
+Write a code to set the training_hooks parameter for a LinearSDCA estimator.
+Write a code to set the prediction_hooks parameter for a LinearSDCA estimator.
+Write a code to set the eval_hooks parameter for a LinearSDCA estimator.
+Write a code to set the export_strategies parameter for a LinearSDCA estimator.
+Write a code to set the dnn_hidden_units parameter for a LinearSDCA estimator.
+Write a code to set the dnn_optimizer parameter for a LinearSDCA estimator.
+Write a code to set the dnn_activation_fn parameter for a LinearSDCA estimator.
+Write a code to set the dnn_dropout parameter for a LinearSDCA estimator.
+Write a code to set the dnn_feature_columns parameter for a LinearSDCA estimator.
+Write a code to set the dnn_optimizer_params parameter for a LinearSDCA estimator.
+Write a code to set the dnn_linear_combined_optimizer parameter for a LinearSDCA estimator.

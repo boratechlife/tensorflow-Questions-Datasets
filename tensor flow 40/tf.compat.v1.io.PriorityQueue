@@ -1,0 +1,50 @@
+Write a code to create a PriorityQueue object.
+Write a code to enqueue an element into a PriorityQueue.
+Write a code to dequeue an element from a PriorityQueue.
+Write a code to check if a PriorityQueue is empty.
+Write a code to get the size of a PriorityQueue.
+Write a code to clear all elements from a PriorityQueue.
+Write a code to get the maximum element from a PriorityQueue.
+Write a code to get the minimum element from a PriorityQueue.
+Write a code to get the top k elements from a PriorityQueue.
+Write a code to remove all occurrences of a specific element from a PriorityQueue.
+Write a code to check if a specific element exists in a PriorityQueue.
+Write a code to merge two PriorityQueue objects.
+Write a code to find the index of a specific element in a PriorityQueue.
+Write a code to convert a PriorityQueue to a list.
+Write a code to find the nth largest element in a PriorityQueue.
+Write a code to find the nth smallest element in a PriorityQueue.
+Write a code to calculate the sum of all elements in a PriorityQueue.
+Write a code to calculate the product of all elements in a PriorityQueue.
+Write a code to reverse the elements in a PriorityQueue.
+Write a code to sort the elements in a PriorityQueue in descending order.
+Write a code to sort the elements in a PriorityQueue in ascending order.
+Write a code to find the frequency of a specific element in a PriorityQueue.
+Write a code to remove duplicate elements from a PriorityQueue.
+Write a code to find the median of elements in a PriorityQueue.
+Write a code to swap the minimum and maximum elements in a PriorityQueue.
+Write a code to find the second largest element in a PriorityQueue.
+Write a code to find the second smallest element in a PriorityQueue.
+Write a code to check if a PriorityQueue contains only unique elements.
+Write a code to remove the kth smallest element from a PriorityQueue.
+Write a code to remove the kth largest element from a PriorityQueue.
+Write a code to count the number of elements greater than a specific value in a PriorityQueue.
+Write a code to count the number of elements smaller than a specific value in a PriorityQueue.
+Write a code to find the difference between the maximum and minimum elements in a PriorityQueue.
+Write a code to find the average of elements in a PriorityQueue.
+Write a code to find the mode of elements in a PriorityQueue.
+Write a code to find the range of elements in a PriorityQueue.
+Write a code to find the standard deviation of elements in a PriorityQueue.
+Write a code to find the variance of elements in a PriorityQueue.
+Write a code to copy the elements from one PriorityQueue to another.
+Write a code to find the common elements between two PriorityQueue objects.
+Write a code to find the difference between two PriorityQueue objects.
+Write a code to find the union of two PriorityQueue objects.
+Write a code to check if two PriorityQueue objects are equal.
+Write a code to check if one PriorityQueue is a subset of another.
+Write a code to find the maximum element below a specific value in a PriorityQueue.
+Write a code to find the minimum element above a specific value in a PriorityQueue.
+Write a code to find the sum of the smallest k elements in a PriorityQueue.
+Write a code to find the sum of the largest k elements in a PriorityQueue.
+Write a code to find the product of the smallest k elements in a PriorityQueue.
+Write a code to find the product of the largest k elements in a PriorityQueue.
